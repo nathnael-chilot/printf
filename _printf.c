@@ -41,7 +41,7 @@ int (*get_op(const char c))(va_list)
 
 /**
  * _printf - Reproduce behavior of printf function
- * @format: format string
+ * @format: format string is
  * Return: value of printed chars
  */
 
