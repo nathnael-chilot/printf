@@ -1,3 +1,5 @@
+
+
 #include <stdlib.h>
 #include "main.h"
 /**
@@ -80,4 +82,6 @@ char *convert_rot13(char *str)
 
 	s = malloc(sizeof(char) * size + 1);
 	if (!s)
+
+Footer
 
